@@ -19,4 +19,6 @@ MODEL PERFORMANCE (LOSS GRAF)
 FILE NAME
 
 - Training code file: assessment_4_skeletal.ipynb
-- Model file: unet_model.h5
+- Model file: unet_model.h5 (link: https://drive.google.com/drive/folders/1CmJ2t3I5VuBi8ZcaV73Qu84KpI-wvQzo?usp=sharing)
+
+*The model file is 60 MB and can get by the google drive link.
