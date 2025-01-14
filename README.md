@@ -18,5 +18,5 @@ MODEL PERFORMANCE (LOSS GRAF)
 
 FILE NAME
 
-- Training code file: assessment_4_skeletal.py & assessment_4_skeletal.ipynb
+- Training code file: assessment_4_skeletal.ipynb
 - Model file: unet_model.h5
